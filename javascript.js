@@ -1,4 +1,3 @@
-<script type="text/javascript">
   var winnerButton = Math.floor(Math.random() * 3);
   function addButtons() {
     for (let i = 0; i < 3; ++i) {
@@ -19,4 +18,3 @@
   function newGame() {
     location.reload();
   }
-</script>
