@@ -10,7 +10,7 @@
 
   function checkWinnerButton(id) {   
     if (id == winnerButton) {
-      alert("You won!");
+      alert("You win!");
     } else {
       alert("Try again!");
     }
